@@ -1,0 +1,162 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetD?_1 Pin=D?-1
+Removed Pin From Net: NetName=NetD?_1 Pin=R?-1
+Added Component: Designator=C?(CAPC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "CAPACITOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-01106"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CL10C330JB8NNNC, 0603N330J500CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p/50V"; VariantName = "[No Variations]"
+Added Component: Designator=FB?(BLM18EG121SH1D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BLM18EG221SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/blm18eg221sn1d/murata-manufacturing?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BLM18EG221SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-BLM18EG221SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18EG221SN1D?qs=uSeJpk%2F8In2DDeSj2a4KGA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/doc0336.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AT24C32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/AT24C32?qs=HbI%2FMOA3e15bWuuoyy2xIw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(QFP40P1200X1200X160-81N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.infinigo.com/pdf/8fbda183-acaa-42bd-9b7a-1a435fa63bee.pdf?t=1653368662&k=22be6ea2ab67c3bbe73e3c295d80e3b4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ASIX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AX58100LT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC-0603 (1608))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RESISTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = "VT-00329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "AC0603FR-0713KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=D?-2
+Added Pin To Net: NetName=NetAMS?_1 Pin=D?-2
+Added Pin To Net: NetName=NetAMS?_1 Pin=IC?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=IC?-2
+Added Pin To Net: NetName=NetAMS?_1 Pin=IC?-3
+Added Pin To Net: NetName=NetAMS?_1 Pin=IC?-4
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetAMS?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Change Net Name : Old Net Name=NetAMS?_1 New Net Name=GND
+Change Net Name : Old Net Name=NetC?_2 New Net Name=VCC
+Added Pin To Net: NetName=NetIC?_5 Pin=IC?-5
+Added Pin To Net: NetName=NetIC?_5 Pin=R?-1
+Added Net: Name=NetIC?_5
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Pin To Net: NetName=NetIC?_6 Pin=R?-1
+Added Net: Name=NetIC?_6
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component C? 33p/50V
+Added Member To Class: ClassName=BUOI13 Member=Component D? 2V4/20mA
+Added Member To Class: ClassName=BUOI13 Member=Component D? 2V4/20mA
+Added Member To Class: ClassName=BUOI13 Member=Component FB? BLM18EG221SN1D
+Added Member To Class: ClassName=BUOI13 Member=Component FB? BLM18EG221SN1D
+Added Member To Class: ClassName=BUOI13 Member=Component IC? 24Cxx
+Added Member To Class: ClassName=BUOI13 Member=Component IC? AT24C32
+Added Member To Class: ClassName=BUOI13 Member=Component J? HR911105A
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Member To Class: ClassName=BUOI13 Member=Component R? 13K
+Added Room: Name=BUOI13

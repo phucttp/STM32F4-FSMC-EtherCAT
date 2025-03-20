@@ -1,0 +1,14 @@
+Added Component: Designator=FB2(BLM18EG121SH1D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "BLM18EG221SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/blm18eg221sn1d/murata-manufacturing?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BLM18EG221SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-BLM18EG221SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/BLM18EG221SN1D?qs=uSeJpk%2F8In2DDeSj2a4KGA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3IO Pin=FB2-1
+Added Pin To Net: NetName=VCC33A Pin=FB2-2
+Added Member To Class: ClassName=BUOI13 Member=Component FB2 BLM18EG221SN1D
+Added Room: Name=BUOI13

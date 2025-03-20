@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=DGND Pin=C28-7
+Added Pin To Net: NetName=DGND Pin=J1-5
+Added Pin To Net: NetName=DGND Pin=J1-5
+Added Pin To Net: NetName=DGND Pin=J1-5
+Added Member To Class: ClassName=buoi121 Member=Component IC1 STM32F407ZGT6
+Added Member To Class: ClassName=buoi121 Member=Component LED4 LED
+Added Room: Name=buoi121
+Added Room: Name=buoi122

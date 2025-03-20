@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=buoi122 Member=C27
+Change Component Footprint: Designator=C28 Old Footprint=JP6-D2T New Footprint=JP6-C2T
+Change Component Footprint: Designator=C35 Old Footprint=JP8-D2T New Footprint=JP8-C2T
+Change Component Footprint: Designator=C34 Old Footprint=JP9-D2T New Footprint=JP9-C2T
+Added Member To Class: ClassName=buoi121 Member=Component C18 1nF
+Added Member To Class: ClassName=buoi121 Member=Component C21 0.1uF
+Added Member To Class: ClassName=buoi121 Member=Component C23 1nF
+Added Member To Class: ClassName=buoi121 Member=Component C26 1nF
+Added Member To Class: ClassName=buoi121 Member=Component C27 1nF
+Added Member To Class: ClassName=buoi122 Member=Component C28 JP6x2
+Added Member To Class: ClassName=buoi122 Member=Component C31 0.1uF
+Added Member To Class: ClassName=buoi122 Member=Component C34 JP9x2
+Added Room: Name=buoi121
+Added Room: Name=buoi122

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=DGND Pin=C18-1
+Removed Pin From Net: NetName=SWCLK Pin=C18-2
+Removed Pin From Net: NetName=SWDIO Pin=C18-3
+Removed Member From Class: ClassName=buoi121 Member=C28
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=C29 NewDesignator=C28
+Change Component Designator: OldDesignator=C30 NewDesignator=C29
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=C34 NewDesignator=C33
+Change Component Designator: OldDesignator=C35 NewDesignator=C34
+Change Component Designator: OldDesignator=C36 NewDesignator=C35
+Added Component: Designator=P1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=P1-1
+Added Pin To Net: NetName=SWCLK Pin=P1-2
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC25_2
+Added Member To Class: ClassName=buoi121 Member=Component P1 Header 3x1
+Added Room: Name=buoi121
+Added Room: Name=buoi122
