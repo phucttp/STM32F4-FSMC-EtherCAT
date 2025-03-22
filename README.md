@@ -6,7 +6,7 @@ Dự án này bao gồm **hai bo mạch** kết nối với nhau, sử dụng **
 ---
 
 ## 🔧 Cấu Trúc Hệ Thống
-### 🟢 1. Bo Mạch Điều Khiển (bai12.pdf & bai122.pdf)
+### 🟢 1. Bo Mạch Điều Khiển
 #### ✨ **Thành Phần Chính:**
 - 🎛 **Vi điều khiển:** STM32F407ZGT6 – Đóng vai trò điều khiển chính.
 - 🔋 **Nguồn điện:** AMS1117-3.3V – Chuyển đổi 5V từ USB thành 3.3V cấp cho vi điều khiển.
@@ -29,7 +29,7 @@ Dự án này bao gồm **hai bo mạch** kết nối với nhau, sử dụng **
 
 ---
 
-### 🟠 2. Bo Chính EtherCAT (bai123.pdf)
+### 🟠 2. Bo Chính EtherCAT
 #### ✨ **Thành Phần Chính:**
 - 🌐 **Ethernet PHY:** HR911105A – Kết nối mạng Ethernet.
 - ⚡ **Bộ điều khiển EtherCAT:** AX58100LT – Xử lý giao tiếp EtherCAT.
@@ -70,9 +70,11 @@ Dự án này bao gồm **hai bo mạch** kết nối với nhau, sử dụng **
 ---
 
 ## 📂 Nội Dung Kho Lưu Trữ
-📜 `bai12.pdf & bai122.pdf` – Sơ đồ bo điều khiển STM32F4.
-📜 `bai123.pdf` – Sơ đồ bo chính với EtherCAT.
-📜 `PCB Layout Files` – File thiết kế Altium.
+📜 `` – Sơ đồ bo điều khiển STM32F4.
+
+📜 `` – Sơ đồ bo chính với EtherCAT.
+
+
 📸 **Hình ảnh thiết kế:**
 - 🔼 **Mặt trên bo điều khiển**
 - 🔽 **Mặt dưới bo điều khiển**
@@ -90,9 +92,6 @@ Dự án này bao gồm **hai bo mạch** kết nối với nhau, sử dụng **
    ```sh
    git clone https://github.com/your-repo/STM32F4-FSMC-EtherCAT.git
    ```
-2️⃣ **Mở bằng Altium Designer** 📐
-   - Load `bai12.SchDoc`, `bai122.SchDoc`, `BUOI13.SchDoc`.
-   - Kiểm tra thiết kế PCB và tối ưu đường mạch.
 3️⃣ **Lập trình firmware (tùy chọn)**
    - Cấu hình **FSMC trên STM32F4** để giao tiếp với bo chính.
    - Lập trình giao tiếp **EtherCAT với AX58100LT**.
